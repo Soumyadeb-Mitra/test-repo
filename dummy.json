@@ -6,7 +6,7 @@
     "first_name": "Patience",
     "last_name": "Kerluke",
     "gender": "Genderqueer",
-    "social_insurance_number": "325185874",
+    "social_insurance_number": "325185876",
     "date_of_birth": "1972-05-22",
     "employment": {
       "title": "National Government Facilitator",
@@ -16,7 +16,7 @@
       "cc_number": "6771-8956-8383-5331"
     },
     "subscription": {
-      "plan": "Platinum",
+      "plan": "Gold",
       "status": "Blocked",
       "payment_method": "Paypal",
       "term": "Annual"
@@ -62,7 +62,7 @@
   {
     "id": 4926,
     "uid": "2f3acc72-29d8-46b1-8311-e0ce18f81edf",
-    "password": "mGkxZlTaEX",
+    "password": "mGkxZlTaEZ",
     "first_name": "John",
     "last_name": "Spencer",
     "gender": "Female",
@@ -77,7 +77,7 @@
     },
     "subscription": {
       "plan": "Platinum",
-      "status": "Active",
+      "status": "Inactive",
       "payment_method": "Cash",
       "term": "Payment in advance"
     },
