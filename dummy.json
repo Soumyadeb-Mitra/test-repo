@@ -18,8 +18,8 @@
     "subscription": {
       "plan": "Gold",
       "status": "Blocked",
-      "payment_method": "Paypal",
-      "term": "Annual"
+      "payment_method": "Cash",
+      "term": "Payment in advance"
     },
     "address": {
       "city": "North Shelleyberg",
@@ -48,8 +48,8 @@
     "subscription": {
       "plan": "Diamond",
       "status": "Idle",
-      "payment_method": "Money transfer",
-      "term": "Monthly"
+      "payment_method": "Paypal",
+      "term": "Annual"
     },
     "address": {
       "city": "Jasonfurt",
@@ -76,10 +76,10 @@
       "cc_number": "5463-1760-6356-5987"
     },
     "subscription": {
-      "plan": "Platinum",
+      "plan": "Gold",
       "status": "Inactive",
       "payment_method": "Cash",
-      "term": "Payment in advance"
+      "term": "Monthly"
     },
     "address": {
       "city": "Hagenesberg",
